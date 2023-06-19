@@ -1,1 +1,1 @@
-# opencv
+Python opencv object tracking project.
